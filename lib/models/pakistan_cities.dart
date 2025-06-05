@@ -1,0 +1,23 @@
+const List<Map<String, dynamic>> pakistanCities = [
+  {'name': 'Karachi', 'lat': 24.8607, 'lon': 67.0011},
+  {'name': 'Lahore', 'lat': 31.5497, 'lon': 74.3436},
+  {'name': 'Faisalabad', 'lat': 31.4504, 'lon': 73.1350},
+  {'name': 'Rawalpindi', 'lat': 33.5651, 'lon': 73.0169},
+  {'name': 'Gujranwala', 'lat': 32.1877, 'lon': 74.1945},
+  {'name': 'Peshawar', 'lat': 34.0151, 'lon': 71.5249},
+  {'name': 'Multan', 'lat': 30.1575, 'lon': 71.5249},
+  {'name': 'Hyderabad', 'lat': 25.3960, 'lon': 68.3578},
+  {'name': 'Islamabad', 'lat': 33.6844, 'lon': 73.0479},
+  {'name': 'Quetta', 'lat': 30.1798, 'lon': 66.9750},
+  {'name': 'Bahawalpur', 'lat': 29.3956, 'lon': 71.6836},
+  {'name': 'Sargodha', 'lat': 32.0836, 'lon': 72.6711},
+  {'name': 'Sialkot', 'lat': 32.4945, 'lon': 74.5229},
+  {'name': 'Sukkur', 'lat': 27.7052, 'lon': 68.8574},
+  {'name': 'Larkana', 'lat': 27.5631, 'lon': 68.2158},
+  {'name': 'Sheikhupura', 'lat': 31.7131, 'lon': 73.9783},
+  {'name': 'Rahim Yar Khan', 'lat': 28.4202, 'lon': 70.2952},
+  {'name': 'Jhang', 'lat': 31.2690, 'lon': 72.3184},
+  {'name': 'Dera Ghazi Khan', 'lat': 30.0497, 'lon': 70.6403},
+  {'name': 'Gujrat', 'lat': 32.5731, 'lon': 74.0785},
+  // ... (add more cities for a larger list as needed) ...
+];
