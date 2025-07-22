@@ -49,17 +49,6 @@
 
 ---
 
-## Screenshots
-
-<p align="center">
-  <img src="docs/screenshot_home.png" alt="Home Screen" width="250" />
-  <img src="docs/screenshot_city_search.png" alt="City Search" width="250" />
-  <img src="docs/screenshot_news.png" alt="News Screen" width="250" />
-</p>
-
-<sub><i>(Add your own screenshots in the <code>docs/</code> folder for best effect!)</i></sub>
-
----
 
 ## Getting Started
 
